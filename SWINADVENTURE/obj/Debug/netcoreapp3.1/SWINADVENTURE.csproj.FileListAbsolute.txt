@@ -1,0 +1,42 @@
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.exe
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.deps.json
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.runtimeconfig.json
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.runtimeconfig.dev.json
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.dll
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.pdb
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.csproj.AssemblyReference.cache
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.AssemblyInfoInputs.cache
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.AssemblyInfo.cs
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.csproj.CoreCompileInputs.cache
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.dll
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.pdb
+C:\Users\YUNWEI88\source\repos\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.genruntimeconfig.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.exe
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.deps.json
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.runtimeconfig.json
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.runtimeconfig.dev.json
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.dll
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.pdb
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.csproj.AssemblyReference.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.AssemblyInfoInputs.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.AssemblyInfo.cs
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.csproj.CoreCompileInputs.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.dll
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.pdb
+C:\Users\YUNWEI88\Desktop\swinadventure\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.genruntimeconfig.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.exe
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.deps.json
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.runtimeconfig.json
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.runtimeconfig.dev.json
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.dll
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\bin\Debug\netcoreapp3.1\SWINADVENTURE.pdb
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.csproj.AssemblyReference.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.AssemblyInfoInputs.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.AssemblyInfo.cs
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.csproj.CoreCompileInputs.cache
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.dll
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.pdb
+C:\Users\YUNWEI88\Desktop\swinadventure\Swinadventure fixed\SWINADVENTURE\SWINADVENTURE\obj\Debug\netcoreapp3.1\SWINADVENTURE.genruntimeconfig.cache
